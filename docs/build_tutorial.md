@@ -23,7 +23,7 @@ sh <(curl -L https://nixos.org/nix/install) --darwin-use-unencrypted-nix-store-v
 
 Clone the holochain/holochain repo
 ```bash
-git clone git@github.com:holochain/holochain.git
+git clone https://github.com/holochain/holochain.git
 ```
 
 Enter the directory
